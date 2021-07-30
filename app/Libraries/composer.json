@@ -1,0 +1,7 @@
+{
+    "name": "google/api",
+    "type": "libraries",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
